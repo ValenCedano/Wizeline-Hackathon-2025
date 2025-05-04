@@ -1,4 +1,7 @@
 <h1> Proyecto de Hackhaton Data 2025 </h1>
+
+![dualminddata](https://github.com/user-attachments/assets/e6ba35a1-2964-4189-8c32-49c876c0377f)
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Tabla de Contenido</summary>
@@ -12,7 +15,6 @@
     <li><a href="#contact">Autores</a></li>
   </ol>
 </details>
-
 
 <!-- ABOUT THE PROJECT -->
 ## Acerca del proyecto 
