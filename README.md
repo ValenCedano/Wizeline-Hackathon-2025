@@ -33,3 +33,7 @@ El presente proyecto propone una solución para procesar eventos públicos de Gi
 ## Desarrolladores
 
 Desarrollado por el equipo de DualMindData 
+
+## DB Esquema
+
+ Data base squema: Here
