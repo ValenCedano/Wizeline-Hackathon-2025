@@ -34,7 +34,12 @@ El presente proyecto propone una solución para procesar eventos públicos de Gi
 <!-- CONTACT -->
 ## Desarrolladores
 
-Desarrollado por el equipo de DualMindData 
+Desarrollado por el equipo de DualMindData. 
+
+William Pabon - Data Scientist (Team Leader) Cel: 304 380 3822. [LinkedIn](https://www.linkedin.com/in/wiferpagri/)
+Valentina Cedano - Data Scientist. [LinkedIn](https://www.linkedin.com/in/valentina-cedano-useche-59b23b129/)
+César Gonzáles - Machine Learning Engineer. [LinkedIn](https://www.linkedin.com/in/cesar-gonz%C3%A1lez-rodr%C3%ADguez/)
+Daniel Ospina - Estudiante de Ingeniería de Software. [LinkedIn](https://www.linkedin.com/in/daniel-ospina-22a308187/)
 
 ## DB Esquema
 
